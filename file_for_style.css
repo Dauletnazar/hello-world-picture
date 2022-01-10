@@ -11,3 +11,9 @@ h1 {
 	font-style: Arial;
 	font-size: 24pt;
 }
+
+#fixed_bug {
+	text-align: justify;
+	text-decoration: underline;
+	font-family: Monaco;
+}
