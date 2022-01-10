@@ -4,10 +4,15 @@ h1 {
 }
 
 .content {
-	font-style: Times New Roman, Times;
+	font-family: Times New Roman, Times;
 }
 
 #third {
-	font-style: Arial;
+	font-family: Monaco;
 	font-size: 24pt;
+}
+
+div img {
+	width: 30%;
+	height: 60%;
 }
