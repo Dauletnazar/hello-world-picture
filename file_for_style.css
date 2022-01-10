@@ -4,16 +4,22 @@ h1 {
 }
 
 .content {
-	font-style: Times New Roman, Times;
+	font-family: Times New Roman, Times;
 }
 
 #third {
-	font-style: Arial;
+	font-family: Monaco;
 	font-size: 24pt;
 }
+
 
 #fixed_bug {
 	text-align: justify;
 	text-decoration: underline;
 	font-family: Monaco;
+}
+
+div img {
+	width: 30%;
+	height: 60%;
 }
