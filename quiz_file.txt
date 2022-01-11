@@ -1,0 +1,100 @@
+Question 1:
+What is Git?
+A version control system.    Your answer  
+
+Question 2:
+Git is the same as GitHub.
+False    Your answer  
+
+Question 3:
+What is the command to get the installed version of Git?
+git --version    Your answer  
+
+Question 4:
+Which option should you use to set the default user name for every repository on your computer?
+--global    Your answer  
+
+Question 5:
+What is the command to set the user email for the current repository?
+git config user.email    Your answer  
+
+Question 6:
+What is the command to add all files and changes of the current folder to the staging environment of the Git repository?
+git add --all    Your answer  
+
+Question 7:
+What is the command to get the current status of the Git repository?
+git status    Your answer  
+
+Question 8:
+What is the command to initialize Git on the current repository?
+git init    Your answer  
+
+Question 9:
+Git automatically adds new files to the repository and starts tracking them.
+False    Your answer  
+
+Question 10:
+Git commit history is automatically deleted:
+Commit history is never automatically deleted.    Your answer  
+
+Question 11:
+What is the command to commit the staged changes for the Git repository?
+git commit    Your answer  
+
+Question 12:
+What is the command to commit with the message "New email":
+git commit -m "New email"    Your answer  
+
+Question 13:
+What is the command to view the history of commits for the repository?
+git log    Your answer  
+
+Question 14:
+What is the command to see the available options for the commit command?
+git commit -help    Your answer  
+
+Question 15:
+In Git, a branch is:
+A separate version of the main repository.    Your answer  
+
+Question 16:
+What is the command to create a new branch named "new-email"?
+git branch new-email    Your answer  
+
+Question 17:
+What is the command to move to the branch named "new-email"?
+git checkout new-email    Your answer  
+
+Question 18:
+What is the option, when moving to a branch, to create the branch it if it does not exist?
+-b    Your answer  
+
+Question 19:
+What is the command to merge the current branch with the branch "new-email"?
+git merge new-email    Your answer  
+
+Question 20:
+What is the command to delete the branch "new-email"
+git branch -d new-email    Your answer  
+
+Question 21:
+What is the command to add the remote repository "https://abc.xyz/d/e.git" as "origin"?
+git remote add origin https://abc.xyz/d/e.git    Your answer  
+
+Question 22:
+What is the command to push the current repository to the remote origin?
+git push origin    Your answer  
+
+Question 23:
+What is the command to get all the change history of the remote repository "origin"?
+git fetch origin    Your answer  
+
+Question 24:
+What is the command to show the differences between the current branch and the branch "new-email"?
+git diff new-email    Your answer  
+
+Question 25:
+Git Pull is a combination of:
+fetch and merge    Your answer  
+
